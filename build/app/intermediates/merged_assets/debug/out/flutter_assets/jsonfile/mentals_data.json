@@ -1,0 +1,88 @@
+{
+    "mentals": [
+      {
+        "name": "Anxiety Disorders",
+        "what": "WHAT:\nAn anxiety disorder is a type of mental health condition. If you have an anxiety disorder, you may respond to certain things and situations with fear and dread. You may also experience physical signs of anxiety, such as a pounding heart and sweating.",
+        "type" : "TYPE OF ANXIETY DISORDERS:\n-Generalize Anxiety Disorder(GAD)\n-Panic Disorder\n-Phobias\n-Seperation anxiety",
+        "causes" : "CAUSES:\n-Chemical Imbalance\n-Environmental Factors\n-Heredity",
+        "symptoms" : "SYMPTOMS: \n-Sweaty Hands\n-Muscle Tension\n-Feeling panic, fear and uneasiness\n-Nightmares\n-Inability to be still and calm\n-Trouble Sleeping",
+        "treatment" :  "TREATMENT: \n-Pyschotheraphy\n-Medications",
+        "image" : "assets/Anxiety.png"
+      },
+      {
+        "name": "Mood Disorders",
+        "what": "WHAT:\nA mood disorder is a mental health problem that primarily affects a person’s emotional state. It is a disorder in which a person experiences long periods of extreme happiness, extreme sadness, or both.",
+        "type" : "TYPE OF MOOD DISORDERS: \n-Depression\n-Bipolar Disorders",
+        "causes" : "CAUSES:\n-Family History\n-Trauma & stress\n-Use of certain medications\n eg. cancer, diabetes",
+        "symptoms" : "SYMPTOMS:\n-Feeling sad most of the time\n-Lack of energy\n-Feeling worthless or hopeless\n-Lost of appetite or overeating\n-Sleeping too much or not enough\n-Having difficulty in concentrating\n or focusing",
+        "treatment" : "TREATMENT:\n-Antidepressants\n-Mood Stabilizers\n-Antipsychotics",
+        "image" : "assets/Mood-Disorders.jpg"
+      },
+      {
+        "name": "Psychotic Disorders",
+        "what": "WHAT:\nPsychotic disorders are a group of serious illnesses that affect the mind. They make it hard for someone to think clearly, make good judgments, respond emotionally, communicate effectively, understand reality, and behave appropriately.",
+        "type" : "TYPE OF PYSCHOTIC DISORDERS:\n-Schizophrenia\n-Schizoaffective Disorder\n-Schizophreniform Disorder\n-Delusional Disorder",
+        "causes" : "CAUSES:\nHave to face a very stressful event; deathin the family, stress at work",
+        "symptoms" : "SYMPTOMS:\n-Delusions\n-Depression\n-Hallucinations\n-Lack of personal Care\n-Problems with speech and communication",
+        "treatment" : "TREATMENT:\n-Medications\n-Pyschotherapy",
+        "image" : "assets/psychotic_disorders.jpg"
+      },
+      {
+        "name": "Obsessive-Compulsive\n Disorder(OCD)",
+        "what": "WHAT:\nObsessive-compulsive disorder (OCD) is a mental illness that causes repeated unwanted thoughts or sensations (obsessions) or the urge to do something over and over again (compulsions). Some people can have both obsessions and compulsions.",
+        "type" : "TYPE OF OCD:\n-Checking\n-Contamination\n-Symmetry and ordering\n-Ruminations and intrusive thoughts",
+        "causes" : "CAUSES:\n-Compulsions are learned behaviours, which become repetitive and habitual when they are associated with relief from anxiety.\n-OCD is due to genetic and hereditary factors.\n-Chemical, structural and functional abnormalities in the brain are the cause.\n-Distorted beliefs reinforce and maintain symptoms associated with OCD.",
+        "symptoms" : "SYMPTOMS:\n-Fear of contamination from germs, dirt, poisons, and other physical and environmental substances\n-Fear of harm from illness, accidents or death that may occur to oneself or to others.\n-Intrusive thoughts and images about sex, violence, accidents and other issues\n-Excessive concern with symmetry, exactness and orderliness.",
+        "treatment" : "TREATMENT:\n-Psychological treatments such as cognitive behaviour therapy\n-Anxiety management techniques\n-Support groups and education\n-Medications",
+        "image" : "assets/OCD.jpg"
+      },
+      {
+        "name": "Posttraumatic Stress\n Disorder(PTSD)",
+        "what": "WHAT:\nPosttraumatic stress disorder (PTSD), once called shell shock or battle fatigue syndrome, is a serious condition that can develop after a person has experienced or witnessed a traumatic or terrifying event in which there was serious physical harm or threat. PTSD is a lasting consequence of traumatic ordeals that cause intense fear, helplessness, or horror.",
+        "type" : "TYPE OF PTSD:\n-Normal Stress Response\n-Acute Stress Disorder\n-Uncomplicated PTSD\n-Complex PTSD\n-Comorbid PTSD",
+        "causes" : "CAUSES:\n-Sexual or Physical Assault\n-The unexpected death of a loved one\n-An accident\n-War\n-Natural Disaster",
+        "symptoms" : "SYMPTOMS:\n-Repeatedly relive the ordeal through thoughts and memories of trauma.\n-The person may avoid people, places, thoughts, or situations that may remind them of the trauma.\n-Increased arousal: These include excessive emotions; problems relating to others, including feeling or showing affection.",
+        "treatment" : "TREATMENT:\n-Medication\n-Therapy",
+        "image" : "assets/PTSD.jpg"
+      }
+    ],
+  "cancers": [
+    {
+      "name" : "Lung cancer",
+      "what" : "WHAT:\nLung cancer is a type of cancer that begins in the lungs. Your lungs are two spongy organs in your chest that take in oxygen when you inhale and release carbon dioxide when you exhale.",
+      "type" : "TYPE OF LUNG CANCER:\n-Small cell lung cancer\n-Non-small cell lung cancer",
+      "causes" : "CAUSES:\n-Smoking\n-Second-hand smoker",
+      "symptoms" : "SYMPTOMS:\n-Cough that doesn't go away\n-Coughing up blood\n-Chest Pain\n-Hoarseness\n-Bone Pain\n-Headache",
+      "treatment" : "TREATMENT:\n-Surgery\n-Adjuvant Therapy\n-Radiation Therapy\n-Chemotherapy\n-Immunotherapy",
+      "image" : "assets/LungCancer.png"
+    },
+    {
+      "name" : "Breast Cancer",
+      "what" : "WHAT:\nBreast cancer is a relatively common type of cancer. In fact, it is the most common cancer worldwide and the most common cancer diagnosed in the US. Currently nearly 4 million women in the US alone are diagnosed with breast cancer.Just like any cancer, breast cancer results from DNA mutations that instruct your cells to grow out of control. In this case, it targets cells in the breast tissue, and there's no single thing that causes these DNA mutations.",
+      "type" : "TYPE OF BREAST CANCER:\n-Angiosarcoma\n-Ductal Carcinoma in Situ (DCIS)\n-Inflammatory Breast Cancer\n-Lobular Carcinoma in Situ (LCIS)\n-Male Breast Cancer",
+      "causes" : "CAUSES:\n-Identified Hormonal\n-Lifestyle\n-Environment\n-Genetic Makeup",
+      "symptoms" : "SYMPTOMS:\n-A breast lump or thickening that feels different from the surrounding tissue\n-Change in  the size, shape or appearance of a breast\n-Changes to the skin over the breast, such as dimpling\n-A newly inverted nipple\n-Redness or pitting of the skin over your breas, like the skin of an orange",
+      "treatment" : "TREATMENT:\n-Surgery (Lumpectomy, Mastectomy)\n-Lymph node removal\n-Reconstructive (plastic) surgery\n-Radiation Therapy\n-Chemotherapy\n-Hormonal Therapy",
+      "image" : "assets/BreastCancer.jpg"
+    },
+    {
+      "name" : "Kidney Cancer",
+      "what" : "WHAT:\nKidney cancer is cancer that begins in the kidneys. Your kidneys are two bean-shaped organs, each about the size of your fist. They're located behind your abdominal organs, with one kidney on each side of your spine.",
+      "type" : "TYPE OF KIDNEY CANCER:\n-Renal Cell Carcinomas\n-Transitional Cell Carcinomas\n-Wilms Tumors\n-Renal Sarcomas",
+      "symptoms" : "SYMPTOMS:\n-Blood in your urine, which may appear pink, red or cola colored\n-Pain in your back or side that doesn't go away\n-Loss of appetite\n-Unexplained weight loss\n-Tiredness\n-Fever",
+      "treatment" : "TREATMENT:\n-Surgery (Nephrectomy, partial nephrectomy)\n-Treatment to freeze cancer cells (cryoablation)\n-Treatment to heat cancer cells (radiofrequency ablation)\n-Immunotherapy\n-Radiation therapy",
+      "image" : "assets/KidneyCancer.png"
+    }
+  ],
+  "viruses": [
+    {
+      "name" : "Malaria Virus",
+      "what" : "Malaria is a mosquito-borne parasitic infection spread by Anopheles mosquitoes. The Plasmodium parasite that causes malaria is neither a virus nor a bacteria – it is a single-celled parasite that multiplies in red blood cells of humans as well as in the mosquito intestine.",
+      "type" : "TYPE:\nPlasmodium knowlesi",
+      "causes" : "CAUSES:\nMalaria is caused by a single-celled parasite of the genus plasmodium. The parasite is transmitted to humans most commonly through mosquito bites.",
+      "symptoms" : "SYPMTOMS:\n-Abdominal Pain\n-Chills and Sweats\n-Diarrhea,Nausea, and Vomiting\n-Headache\n-High Fevers\n-Muscle Aches\n-Poor Appetite",
+      "treatment" : "TREATMENT:\n-Preventive Medicine\n-Vaccine",
+      "image" : "assets/Malaria.jpg"
+    }
+  ]
+  }
